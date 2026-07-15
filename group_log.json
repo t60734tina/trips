@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-08 07:25",
-    "name": "Claire",
-    "user_id": "U286ab5103bb5f91537fefaa8afb2e5d6",
-    "group_id": "C88254729bc13605ae08aae5c02ca2255",
-    "text": "我來找一下"
-  },
-  {
     "ts": "2026-06-08 07:27",
     "name": "Claire",
     "user_id": "U286ab5103bb5f91537fefaa8afb2e5d6",
@@ -6998,5 +6991,12 @@
     "user_id": "U82a5f9af8df7c6bdeaa10063c3480714",
     "group_id": "C88254729bc13605ae08aae5c02ca2255",
     "text": "給他看這種吧\n06:06 進入業配"
+  },
+  {
+    "ts": "2026-07-15 05:40",
+    "name": "王律婷 :D",
+    "user_id": "U82a5f9af8df7c6bdeaa10063c3480714",
+    "group_id": "C88254729bc13605ae08aae5c02ca2255",
+    "text": "就是置入在某個旅遊或生活影片內"
   }
 ]
