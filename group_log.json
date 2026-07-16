@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-08 16:13",
-    "name": "老謝",
-    "user_id": "U4598bbdc04e3ed6fdce9ff5045e2a564",
-    "group_id": "C88254729bc13605ae08aae5c02ca2255",
-    "text": "沒買"
-  },
-  {
     "ts": "2026-06-08 16:21",
     "name": "Claire",
     "user_id": "U286ab5103bb5f91537fefaa8afb2e5d6",
@@ -6998,5 +6991,12 @@
     "user_id": "U286ab5103bb5f91537fefaa8afb2e5d6",
     "group_id": "C88254729bc13605ae08aae5c02ca2255",
     "text": "這也是reel嗎"
+  },
+  {
+    "ts": "2026-07-16 08:56",
+    "name": "Claire",
+    "user_id": "U286ab5103bb5f91537fefaa8afb2e5d6",
+    "group_id": "C88254729bc13605ae08aae5c02ca2255",
+    "text": "總共是兩支reels?"
   }
 ]
