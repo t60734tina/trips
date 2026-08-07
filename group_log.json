@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-08 14:38",
-    "name": "Claire",
-    "user_id": "U286ab5103bb5f91537fefaa8afb2e5d6",
-    "group_id": "C88254729bc13605ae08aae5c02ca2255",
-    "text": "25%未稅"
-  },
-  {
     "ts": "2026-07-09 04:31",
     "name": "Claire",
     "user_id": "U286ab5103bb5f91537fefaa8afb2e5d6",
@@ -6998,5 +6991,12 @@
     "user_id": "U82a5f9af8df7c6bdeaa10063c3480714",
     "group_id": "C88254729bc13605ae08aae5c02ca2255",
     "text": "我比較少穿襪子球鞋"
+  },
+  {
+    "ts": "2026-08-07 09:49",
+    "name": "王律婷 :D",
+    "user_id": "U82a5f9af8df7c6bdeaa10063c3480714",
+    "group_id": "C88254729bc13605ae08aae5c02ca2255",
+    "text": "小米的 請他標注哪兩個是一定要拍攝到的\n腳本會以那兩個為主～"
   }
 ]
