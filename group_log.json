@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-21 10:18",
-    "name": "Claire",
-    "user_id": "U286ab5103bb5f91537fefaa8afb2e5d6",
-    "group_id": "C88254729bc13605ae08aae5c02ca2255",
-    "text": "抱歉前面過腳本的時候有點小遺漏，如果可以的話請幫我調整一下！其他內容都沒問題喔 謝謝"
-  },
-  {
     "ts": "2026-07-21 10:19",
     "name": "Claire",
     "user_id": "U286ab5103bb5f91537fefaa8afb2e5d6",
@@ -6998,5 +6991,12 @@
     "user_id": "U82a5f9af8df7c6bdeaa10063c3480714",
     "group_id": "C88254729bc13605ae08aae5c02ca2255",
     "text": "我才不要冒險"
+  },
+  {
+    "ts": "2026-08-11 01:23",
+    "name": "王律婷 :D",
+    "user_id": "U82a5f9af8df7c6bdeaa10063c3480714",
+    "group_id": "C88254729bc13605ae08aae5c02ca2255",
+    "text": "哈哈哈哈"
   }
 ]
