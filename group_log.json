@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-26 00:40",
-    "name": "Claire",
-    "user_id": "U286ab5103bb5f91537fefaa8afb2e5d6",
-    "group_id": "C88254729bc13605ae08aae5c02ca2255",
-    "text": "兩位是被美膚傘嚇到了齁"
-  },
-  {
     "ts": "2026-07-26 00:41",
     "name": "Claire",
     "user_id": "U286ab5103bb5f91537fefaa8afb2e5d6",
@@ -6998,5 +6991,12 @@
     "user_id": "U0cb941d313ffedc6fa71092c9643beb3",
     "group_id": "C88254729bc13605ae08aae5c02ca2255",
     "text": "好啊"
+  },
+  {
+    "ts": "2026-08-12 03:22",
+    "name": "Jill (軍君)",
+    "user_id": "Ud78b9087971030e851280791b45f7a86",
+    "group_id": "C88254729bc13605ae08aae5c02ca2255",
+    "text": "好喔"
   }
 ]
