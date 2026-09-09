@@ -4,13 +4,6 @@
     "name": "王律婷 :D",
     "user_id": "U82a5f9af8df7c6bdeaa10063c3480714",
     "group_id": "C88254729bc13605ae08aae5c02ca2255",
-    "text": "這個我來找看看"
-  },
-  {
-    "ts": "2026-08-25 09:06",
-    "name": "王律婷 :D",
-    "user_id": "U82a5f9af8df7c6bdeaa10063c3480714",
-    "group_id": "C88254729bc13605ae08aae5c02ca2255",
     "text": "我到底想拍怎樣的哈哈"
   },
   {
@@ -6998,5 +6991,12 @@
     "user_id": "U82a5f9af8df7c6bdeaa10063c3480714",
     "group_id": "C88254729bc13605ae08aae5c02ca2255",
     "text": "意思還是要廠商設定"
+  },
+  {
+    "ts": "2026-09-09 13:26",
+    "name": "王律婷 :D",
+    "user_id": "U82a5f9af8df7c6bdeaa10063c3480714",
+    "group_id": "C88254729bc13605ae08aae5c02ca2255",
+    "text": "最穩的方法其實是要求廠商在 Ads Manager 的「廣告組合 Ad Set → Placements」裡面，不要使用 Advantage+ placements，改成手動版位，只勾：\n\nFacebook ✓\nInstagram ✕\nThreads ✕\nMessenger ✕\nAudience Network ✕\n\n但有一個你要特別注意的地方：單純從你創作者端給 Partnership Ads 授權，不一定能替廠商鎖死最終投放版位。 最終廣告跑 FB / IG / Threads，很多情況仍是在廠商的廣告組合裡決定。"
   }
 ]
