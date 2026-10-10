@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-09-27 04:45",
-    "name": "芮🎀",
-    "user_id": "U0cb941d313ffedc6fa71092c9643beb3",
-    "group_id": "C88254729bc13605ae08aae5c02ca2255",
-    "text": "已安排"
-  },
-  {
     "ts": "2026-09-27 04:48",
     "name": "芮🎀",
     "user_id": "U0cb941d313ffedc6fa71092c9643beb3",
@@ -6998,5 +6991,12 @@
     "user_id": "U82a5f9af8df7c6bdeaa10063c3480714",
     "group_id": "C88254729bc13605ae08aae5c02ca2255",
     "text": "阿你的AI小助手怎麼沒進來"
+  },
+  {
+    "ts": "2026-10-10 01:34",
+    "name": "芮🎀",
+    "user_id": "U0cb941d313ffedc6fa71092c9643beb3",
+    "group_id": "C88254729bc13605ae08aae5c02ca2255",
+    "text": "因為一個群組只能一個"
   }
 ]
