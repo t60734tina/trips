@@ -1,13 +1,6 @@
 [
   {
     "ts": "2026-09-27 03:31",
-    "name": "王律婷 :D",
-    "user_id": "U82a5f9af8df7c6bdeaa10063c3480714",
-    "group_id": "C88254729bc13605ae08aae5c02ca2255",
-    "text": "好吧"
-  },
-  {
-    "ts": "2026-09-27 03:31",
     "name": "芮🎀",
     "user_id": "U0cb941d313ffedc6fa71092c9643beb3",
     "group_id": "C88254729bc13605ae08aae5c02ca2255",
@@ -6998,5 +6991,12 @@
     "user_id": "U0cb941d313ffedc6fa71092c9643beb3",
     "group_id": "C88254729bc13605ae08aae5c02ca2255",
     "text": "我問下"
+  },
+  {
+    "ts": "2026-10-10 00:47",
+    "name": "王律婷 :D",
+    "user_id": "U82a5f9af8df7c6bdeaa10063c3480714",
+    "group_id": "C88254729bc13605ae08aae5c02ca2255",
+    "text": "https://travel.rakuten.com/twn/zh-tw/hotel_info_item/10123456874532/?startServiceDate=20261121&endServiceDate=20261122&numberOfUnits=1&numberOfAdults_1=2&features=18123456791830%2C18123456791811%2C18123456791816&sortKey=price_low_to_high&l-id=search%3Asearch_results_dated_list_hotel_card&activeTabId=roomsAndPlans&listType=planList"
   }
 ]
